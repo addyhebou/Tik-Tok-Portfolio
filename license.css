@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Inter&display=swap');
+
+.licenseCards{
+    display: flex;
+    justify-content: space-around;
+}
+
+.licenseCard{
+    background-color: transparent;
+    border: 2px solid black;
+    font-family: 'Inter', sans-serif;
+    padding: 30px;
+    text-align: center;
+}
+
+.licenseCard ul{
+    /* list-style: none; */
+}
+
+.licenseCard button{
+    background-color: rgb(187, 73, 187);
+    border: 0px solid white;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 50px;
+}
+
+.price{
+    font-size: 40px;
+    font-weight: 900;
+}

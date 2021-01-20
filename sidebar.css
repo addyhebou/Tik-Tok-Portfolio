@@ -1,0 +1,40 @@
+.account{
+    align-items: center;
+    display: flex;
+    margin: 10px 0px;
+}
+
+.accounts{
+    margin-top: 40px;
+    padding-top: 30px;
+}
+
+.account img{
+    width: 48px;
+}
+
+.name{
+    margin-left: 15px;
+}
+
+.sideBar{
+    /* background-color: turquoise; */
+    flex: 0.25;
+}
+
+.tab{
+    align-items: center;
+    display: flex;
+}
+
+.tab img{
+    width: 40px;
+}
+
+.tab p{
+    font-size: 20px;
+}
+
+.tabs{
+    margin-top: 40px;
+}

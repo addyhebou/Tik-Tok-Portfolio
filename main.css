@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+@font-face{
+    font-family: PingFang;
+    src: url(Fonts/PingFang\ SC\ /PingFang\ SC\ Regular.ttf);
+}
+@font-face{
+    font-family: PingFang;
+    font-weight: bold;
+    src: url(Fonts/PingFang\ SC\ /PingFang\ SC\ Semibold.ttf);
+}
+@font-face{
+    font-family: PingFang;
+    font-weight: 100;
+    src: url(Fonts/PingFang\ SC\ /PingFang\ SC\ Thin.ttf);
+}
+
+body{
+    font-family: PingFang;
+    margin: 0px 150px;
+}
+
+.grayFontColor{
+    color: #4d4d4d;
+}
+
+h2{
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 100;
+}

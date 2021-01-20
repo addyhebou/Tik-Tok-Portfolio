@@ -1,0 +1,58 @@
+.accounts{
+    border-top: 1px solid gray;
+}
+
+.content{
+    /* background-color: violet; */
+    flex: 0.75;
+    padding: 36px 20px 36px 50px;
+    width: 1040px;
+}
+
+.countInfos{
+    display: flex;
+}
+
+.countInfos .stat{
+    margin-right: 20px;
+}
+
+.grid{
+    /* background-color: yellowgreen; */
+    width: 594px;
+}
+
+.grid .topRow, .grid .row{
+    display: flex;
+}
+
+.grid .topRow h2{
+    flex: 0.5;
+    margin: 10px 0px;
+    text-align: center;
+}
+
+.profileInfo{
+    align-items: center;
+    display: flex;
+    margin: 10px 0px;
+}
+.profileInfo img{
+    width: 120px;
+}
+
+.profileInfo p{
+    width: 150px;
+}
+
+.videoCard{
+    background-position: center;
+    background-size: cover;
+    flex: 0.33333;
+    height: 260px;
+}
+
+.videoCard p{
+    /* background-color: white; */
+    border-radius: 20px;
+}
